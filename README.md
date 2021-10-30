@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.github.com/PaceSomesh">Pace</a>!</h1>
+<h1>Hi , I'm <a href="https://www.github.com/schaeferrr">schaefer</a>!</h1>
 </div>
 
 ```java
